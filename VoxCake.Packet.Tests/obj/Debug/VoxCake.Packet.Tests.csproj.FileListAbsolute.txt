@@ -1,0 +1,2 @@
+C:\github\voxcake-packet\VoxCake.Packet.Tests\obj\Debug\VoxCake.Packet.Tests.csproj.AssemblyReference.cache
+C:\github\voxcake-packet\VoxCake.Packet.Tests\obj\Debug\VoxCake.Packet.Tests.csproj.CoreCompileInputs.cache
