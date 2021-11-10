@@ -1,2 +1,15 @@
 C:\github\voxcake-packet\VoxCake.Packet.Tests\obj\Debug\VoxCake.Packet.Tests.csproj.AssemblyReference.cache
 C:\github\voxcake-packet\VoxCake.Packet.Tests\obj\Debug\VoxCake.Packet.Tests.csproj.CoreCompileInputs.cache
+C:\github\voxcake-packet\VoxCake.Packet.Tests\bin\Debug\VoxCake.Packet.Tests.dll
+C:\github\voxcake-packet\VoxCake.Packet.Tests\bin\Debug\VoxCake.Packet.Tests.pdb
+C:\github\voxcake-packet\VoxCake.Packet.Tests\bin\Debug\nunit.framework.dll
+C:\github\voxcake-packet\VoxCake.Packet.Tests\bin\Debug\VoxCake.Packet.dll
+C:\github\voxcake-packet\VoxCake.Packet.Tests\bin\Debug\VoxCake.Serialization.dll
+C:\github\voxcake-packet\VoxCake.Packet.Tests\bin\Debug\VoxCake.Packet.pdb
+C:\github\voxcake-packet\VoxCake.Packet.Tests\bin\Debug\nunit.framework.xml
+C:\github\voxcake-packet\VoxCake.Packet.Tests\bin\Debug\VoxCake.Serialization.pdb
+C:\github\voxcake-packet\VoxCake.Packet.Tests\obj\Debug\VoxCake.Packet.Tests.csproj.CopyComplete
+C:\github\voxcake-packet\VoxCake.Packet.Tests\obj\Debug\VoxCake.Packet.Tests.dll
+C:\github\voxcake-packet\VoxCake.Packet.Tests\obj\Debug\VoxCake.Packet.Tests.pdb
+C:\github\voxcake-packet\VoxCake.Packet.Tests\bin\Debug\dotMemory.Unit.dll
+C:\github\voxcake-packet\VoxCake.Packet.Tests\bin\Debug\dotMemory.Unit.xml

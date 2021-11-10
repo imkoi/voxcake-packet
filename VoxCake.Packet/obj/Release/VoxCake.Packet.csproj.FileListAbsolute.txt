@@ -1,0 +1,9 @@
+C:\github\voxcake-packet\VoxCake.Packet\bin\Release\VoxCake.Packet.dll
+C:\github\voxcake-packet\VoxCake.Packet\bin\Release\VoxCake.Packet.pdb
+C:\github\voxcake-packet\VoxCake.Packet\bin\Release\VoxCake.Serialization.dll
+C:\github\voxcake-packet\VoxCake.Packet\bin\Release\VoxCake.Serialization.pdb
+C:\github\voxcake-packet\VoxCake.Packet\obj\Release\VoxCake.Packet.csproj.AssemblyReference.cache
+C:\github\voxcake-packet\VoxCake.Packet\obj\Release\VoxCake.Packet.csproj.CoreCompileInputs.cache
+C:\github\voxcake-packet\VoxCake.Packet\obj\Release\VoxCake.Packet.csproj.CopyComplete
+C:\github\voxcake-packet\VoxCake.Packet\obj\Release\VoxCake.Packet.dll
+C:\github\voxcake-packet\VoxCake.Packet\obj\Release\VoxCake.Packet.pdb

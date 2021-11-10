@@ -41,22 +41,20 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Binding\IPacketBinding.cs" />
-        <Compile Include="Binding\PacketBinding.cs" />
         <Compile Include="Exceptions\PacketException.cs" />
-        <Compile Include="Extensions\PacketExtensions.cs" />
-        <Compile Include="Packets\Controllers\IPacketHandlerController.cs" />
-        <Compile Include="Packets\Controllers\IPacketSerializationController.cs" />
-        <Compile Include="Packets\Controllers\PacketHandlerController.cs" />
-        <Compile Include="Packets\Controllers\PacketSerializationController.cs" />
-        <Compile Include="Packets\IPacketHandler.cs" />
-        <Compile Include="Packets\Packet.cs" />
-        <Compile Include="Packets\PacketHandler.cs" />
-        <Compile Include="Packets\PacketMergeable.cs" />
-        <Compile Include="Packets\PacketQueue.cs" />
+        <Compile Include="Implementations\PacketBinding.cs" />
+        <Compile Include="Implementations\PacketQueue.cs" />
+        <Compile Include="Implementations\PacketHandler.cs" />
+        <Compile Include="Implementations\PacketHandlerCollection.cs" />
+        <Compile Include="Implementations\PacketProtocol.cs" />
+        <Compile Include="Interfaces\IPacket.cs" />
+        <Compile Include="Interfaces\IPacketBinding.cs" />
+        <Compile Include="Interfaces\IPacketQueue.cs" />
+        <Compile Include="Interfaces\IPacketHandler.cs" />
+        <Compile Include="Interfaces\IPacketHandlerCollection.cs" />
+        <Compile Include="Interfaces\IPacketMergeable.cs" />
+        <Compile Include="Interfaces\IPacketProtocol.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="Protocol\IPacketProtocol.cs" />
-        <Compile Include="Protocol\PacketProtocol.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
